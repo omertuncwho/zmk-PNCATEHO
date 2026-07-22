@@ -12,6 +12,6 @@ Use branches to select a keyboard.
 
 ![pin_fingers_layout](pics/pin_fingers_layout.png)
 
-
+*Build update.
 
 
